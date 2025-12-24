@@ -1,4 +1,4 @@
-# MohamedHossam# 💫 About Me:
+💫 About Me:
 - 🌱 Learning JavaScript and modern programming concepts  <br>- 💻 Practicing by building small projects and writing clean, readable code  <br>- 🧠 Interested in problem-solving and continuous learning  <br>- 🎯 Goal: Become a professional software developer<br><br>📈 What I'm Working On<br>- Improving my JavaScript fundamentals  <br>- Building beginner-to-intermediate projects  <br>- Strengthening logic and coding consistency
 
 
